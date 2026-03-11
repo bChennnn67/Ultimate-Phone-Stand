@@ -5,6 +5,8 @@ A 3D printed assembly of a phone stand. The phone stand will have two slots wher
 
 This was an entry level project into AutoDesk Inventor. Throughout the process of creating the phone stand, I had to learn how to create different parts and assemble them. My motivation for starting this project was to create something that I could use in my day to day life while I perform chores. 
 
+After the parts are printed and assembled, I will post demo videos and pictures demonstrating the functionability of the phone stand.
+
 # Phone Stand Assembly
 This is what the phone stand should look like after it's fully assembled from 3D printed parts.
 <img width="702" height="500" alt="stand" src="https://github.com/user-attachments/assets/164a837e-bbca-4c7c-9187-15a2773cb927" />
