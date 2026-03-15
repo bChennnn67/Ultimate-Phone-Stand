@@ -7,8 +7,13 @@ This was an entry level project into AutoDesk Inventor. Throughout the process o
 
 After the parts are printed and assembled, I will post demo videos and pictures demonstrating the functionability of the phone stand.
 
+# Demo
+This is what the phone stand looks like after it's been 3D printed and fully assembled. The caps are slighthy off and need to be readjusted.
+
+
+
 # Phone Stand Assembly
-This is what the phone stand should look like after it's fully assembled from 3D printed parts.
+This is what the phone stand should look like after it's fully assembled.
 <img width="702" height="500" alt="stand" src="https://github.com/user-attachments/assets/164a837e-bbca-4c7c-9187-15a2773cb927" />
 
 # BOM (Bill of Materials)
