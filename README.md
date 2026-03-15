@@ -12,6 +12,7 @@ This is what the phone stand looks like after it's been 3D printed and fully ass
 
 
 
+
 # Phone Stand Assembly
 This is what the phone stand should look like after it's fully assembled.
 <img width="702" height="500" alt="stand" src="https://github.com/user-attachments/assets/164a837e-bbca-4c7c-9187-15a2773cb927" />
